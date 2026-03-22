@@ -1,5 +1,7 @@
 # Hi there! I'm Alonso Reza 👋
 
+[![Website](https://img.shields.io/badge/Visit-My_Portfolio-0078d7?style=for-the-badge&logo=github&logoColor=white)](https://alusoreza.github.io/)
+
 I am a **Junior Software Developer** currently in a continuous learning process, driven by curiosity and a passion for building functional solutions. I love exploring new technologies and turning ideas into code.
 
 ## 🚀 About Me
@@ -41,18 +43,5 @@ Estoy siempre abierto a charlar sobre nuevas tecnologías, colaborar en proyecto
 
 - **LinkedIn:** [linkedin.com/in/alonsoreza](https://www.linkedin.com/in/alonsoreza)
 - **GitHub:** [github.com/AlusoReza](https://github.com/AlusoReza)
-
----
-
-# Mi Portafolio Personal 🚀
-
-[![Website](https://img.shields.io/badge/Visit-My_Portfolio-0078d7?style=for-the-badge&logo=github&logoColor=white)](https://alusoreza.github.io/)
-
-Este es mi sitio web personal donde muestro mi trayectoria, proyectos y formación en Física Computacional.
-
-### 🛠️ Tecnologías utilizadas:
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-* **Datos:** JSON para el sistema multi-idioma.
-* **Despliegue:** GitHub Pages.
 
 ---
