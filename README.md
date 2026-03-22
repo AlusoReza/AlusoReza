@@ -43,3 +43,16 @@ Estoy siempre abierto a charlar sobre nuevas tecnologías, colaborar en proyecto
 - **GitHub:** [github.com/AlusoReza](https://github.com/AlusoReza)
 
 ---
+
+# Mi Portafolio Personal 🚀
+
+[![Website](https://img.shields.io/badge/Visit-My_Portfolio-0078d7?style=for-the-badge&logo=github&logoColor=white)](https://alusoreza.github.io/)
+
+Este es mi sitio web personal donde muestro mi trayectoria, proyectos y formación en Física Computacional.
+
+### 🛠️ Tecnologías utilizadas:
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Datos:** JSON para el sistema multi-idioma.
+* **Despliegue:** GitHub Pages.
+
+---
