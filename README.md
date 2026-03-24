@@ -1,9 +1,12 @@
 # Junior Software Developer | Alonso José Suárez Reza 👋
 
-<p align="center">
-  <a href="README.md">🇺🇸 English</a> | 
-  <b>🇪🇸 Español</b>
-</p>
+<div align="center">
+
+| 🌍 Idioma / Language |
+| :---: |
+| [![English](https://img.shields.io/badge/Switch_to-English-blue?style=flat-square&logo=googletranslate&logoColor=white)](README.md) &nbsp;&nbsp; **|** &nbsp;&nbsp; [![Español](https://img.shields.io/badge/Cambiar_a-Español-red?style=flat-square&logo=googletranslate&logoColor=white)](README.es.md) |
+
+</div>
 
 [![Website](https://img.shields.io/badge/Visit-My_Portfolio-0078d7?style=for-the-badge&logo=github&logoColor=white)](https://alusoreza.github.io/)
 
