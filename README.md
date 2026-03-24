@@ -1,17 +1,20 @@
+<div align="right">
+  <a href="README.md"><kbd><b>🇺🇸 English</b></kbd></a>
+  <a href="README.es.md"><kbd><b>🇪🇸 Español</b></kbd></a>
+</div>
+
 # Junior Software Developer | Alonso José Suárez Reza 👋
 
 <div align="center">
-
-| 🌍 Idioma / Language |
-| :---: |
-| [![English](https://img.shields.io/badge/Switch_to-English-blue?style=flat-square&logo=googletranslate&logoColor=white)](README.md) &nbsp;&nbsp; **|** &nbsp;&nbsp; [![Español](https://img.shields.io/badge/Cambiar_a-Español-red?style=flat-square&logo=googletranslate&logoColor=white)](README.es.md) |
+  
+  ## 🌐 PORTAFOLIO PROFESIONAL
+  
+  [![Website](https://img.shields.io/badge/CHECK_MY_PORTAFOLIO-0078d7?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&height=40)](https://alusoreza.github.io/)
 
 </div>
 
-[![Website](https://img.shields.io/badge/Visit-My_Portfolio-0078d7?style=for-the-badge&logo=github&logoColor=white)](https://alusoreza.github.io/)
 
 I am a **Junior Software Developer** currently in a continuous learning process, driven by curiosity and a passion for building functional solutions. I love exploring new technologies and turning ideas into code.
-
 ## 🚀 About Me
 Developer with a solid technical foundation and strategic mindset. My stack includes robust languages like Java and Fortran, the versatility of Python, and professional relational database management. I am also passionate about modern web development (HTML/CSS/JS) and system optimization through automation.
 
