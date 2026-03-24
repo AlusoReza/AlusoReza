@@ -1,11 +1,17 @@
+<div align="right">
+  <a href="README.md"><kbd><b>🇺🇸 English</b></kbd></a>
+  <a href="README.es.md"><kbd><b>🇪🇸 Español</b></kbd></a>
+</div>
+
 # Junior Software Developer | Alonso José Suárez Reza 👋
 
-<p align="center">
-  <a href="README.md">🇺🇸 English</a> | 
-  <b>🇪🇸 Español</b>
-</p>
+<div align="center">
+  
+  ## 🌐 PORTAFOLIO PROFESIONAL
+  
+  [![Website](https://img.shields.io/badge/¡ECHALE_UN_VISTAZO_A_MI_PORTAFOLIO!-0078d7?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&height=40)](https://alusoreza.github.io/)
 
-[![Website](https://img.shields.io/badge/Visita-Mi_Portfolio-0078d7?style=for-the-badge&logo=github&logoColor=white)](https://alusoreza.github.io/)
+</div>
 
 Soy un **Desarrollador de Software Junior** en constante proceso de aprendizaje, impulsado por la curiosidad y la pasión por construir soluciones funcionales. Me encanta explorar nuevas tecnologías y transformar ideas en código.
 
@@ -48,7 +54,7 @@ Actualmente, estoy expandiendo mis horizontes hacia nuevos campos tecnológicos,
 
 [![Demo en vivo](https://img.shields.io/badge/Ver-Landing_Page-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://alusoreza.github.io/Dockers-Image-Creator/)
 
-Este es uno de mis primeros proyectos, donde he puesto en práctica mis conocimientos adquiridos recientemente sobre scripting en Batch y Docker. Mi objetivo fue automatizar el proceso de creación y configuración de imágenes de Docker. ¡Echa un vistazo!
+Este es uno de mis primeros proyectos, donde he puesto en práctica mis conocimientos adquiridos recientemente sobre scripting en Batch y Docker. Mi objetivo fue automatizar el proceso de creación y configuración de imágenes de Docker. ¡Echale un vistazo!
 
 ---
 
