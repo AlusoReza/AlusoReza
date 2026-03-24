@@ -16,20 +16,20 @@
 Soy un **Desarrollador de Software Junior** en constante proceso de aprendizaje, impulsado por la curiosidad y la pasión por construir soluciones funcionales. Me encanta explorar nuevas tecnologías y transformar ideas en código.
 
 ## 🚀 Sobre mí
-Desarrollador con una sólida base técnica y mentalidad estratégica. Mi stack incluye lenguajes robustos como Java y Fortran, la versatilidad de Python y la gestión profesional de bases de datos relacionales. También me apasiona el desarrollo web moderno (HTML/CSS/JS) y la optimización de sistemas mediante la automatización.
+Desarrollador con una sólida base técnica y mentalidad estratégica. Principalmente trabajo en Java y Fortran, pero también soy capaz en otros lenguajes versatiles cómo Python o gestionar profesionalmente de bases de datos relacionales. También me apasiona el desarrollo web moderno (HTML/CSS/JS) y la optimización de sistemas mediante la automatización.
 
 Cuento con años de experiencia en programación, habiendo forjado una base sólida a través de la física computacional. Esta trayectoria me ha permitido dominar la resolución de problemas complejos y el cálculo numérico con lenguajes como Fortran y Python.
 
-Actualmente, estoy expandiendo mis horizontes hacia nuevos campos tecnológicos, integrando mis habilidades analíticas en el desarrollo Backend, gestión de bases de datos y arquitectura de sistemas con Docker. Mi objetivo es aplicar el rigor científico a la creación de soluciones de software modernas, eficientes y escalables.
+Actualmente, estoy expandiendo mis horizontes hacia nuevos campos tecnológicos, integrando mis habilidades analíticas en el desarrollo Backend, gestión de bases de datos y arquitectura de sistemas como con Docker. Me caracterizo por aplicar el rigor científico a la creación de soluciones de software modernas, eficientes y escalables.
 
 - 🎓 **Ruta de aprendizaje:** Constantemente ampliando mis conocimientos en arquitectura de software y flujos de trabajo de desarrollo modernos.
-- 💡 **Mentalidad:** Me considero un entusiasta de la programación y aspirante a emprendedor en el espacio tecnológico. Disfruto iniciando proyectos que desafían mis habilidades actuales.
-- 🛠️ **Enfoque actual:** Profundizando en mi dominio de **Java** y **Python** mientras exploro el ecosistema DevOps.
+- 💡 **Mentalidad:** Me considero un entusiasta de la programación y emprendedor en el espacio tecnológico. Disfruto poniendome a prueba constantemente.
+- 🛠️ **Enfoque actual:** Mejorando mi dominio de **Java** y **Python** mientras exploro resto de ecosistemas.
 - 🌟 **Meta:** Escribir código limpio y eficiente para contribuir en proyectos que generen un impacto real.
 
 ---
 
-## 🛠️ Mi Caja de Herramientas Tech
+## 🛠️ Mi set de lenguajes de programación y herramientas tecnológicas
 
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
