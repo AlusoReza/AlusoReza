@@ -16,7 +16,7 @@
 Soy un **Desarrollador de Software Junior** en constante proceso de aprendizaje, impulsado por la curiosidad y la pasión por construir soluciones funcionales. Me encanta explorar nuevas tecnologías y transformar ideas en código.
 
 ## 🚀 Sobre mí
-Desarrollador con una sólida base técnica y mentalidad estratégica. Principalmente trabajo en Java y Fortran, pero también soy capaz en otros lenguajes versatiles cómo Python o gestionar profesionalmente de bases de datos relacionales. También me apasiona el desarrollo web moderno (HTML/CSS/JS) y la optimización de sistemas mediante la automatización.
+Desarrollador con una sólida base técnica y mentalidad estratégica. Principalmente trabajo en Java y Fortran, pero también soy capaz en otros lenguajes versatiles cómo Python o de gestionar profesionalmente de bases de datos relacionales. También me apasiona el desarrollo web moderno (HTML/CSS/JS) y la optimización de sistemas mediante la automatización.
 
 Cuento con años de experiencia en programación, habiendo forjado una base sólida a través de la física computacional. Esta trayectoria me ha permitido dominar la resolución de problemas complejos y el cálculo numérico con lenguajes como Fortran y Python.
 
