@@ -5,6 +5,11 @@
 I am a **Junior Software Developer** currently in a continuous learning process, driven by curiosity and a passion for building functional solutions. I love exploring new technologies and turning ideas into code.
 
 ## 🚀 About Me
+Developer with a solid technical foundation and strategic mindset. My stack includes robust languages like Java and Fortran, the versatility of Python, and professional relational database management. I am also passionate about modern web development (HTML/CSS/JS) and system optimization through automation.
+
+I have years of programming experience, having built a strong foundation through computational physics. This trajectory has allowed me to master complex problem solving and numerical calculation with languages like Fortran and Python.
+
+Currently, I am expanding my horizons toward new technological fields, integrating my analytical skills into Backend development, database management, and systems architecture with Docker. My goal is to apply scientific rigor to the creation of modern, efficient, and scalable software solutions.
 - 🎓 **Learning Path:** I'm constantly expanding my knowledge in software architecture and modern development workflows.
 - 💡 **Mindset:** I consider myself a programming enthusiast and an aspiring entrepreneur in the tech space. I enjoy starting new projects that challenge my current skills.
 - 🛠️ **Current Focus:** Deepening my expertise in **Java** and **Python** while exploring the DevOps ecosystem.
