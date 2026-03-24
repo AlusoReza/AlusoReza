@@ -9,7 +9,7 @@
   
   ## 🌐 PORTAFOLIO PROFESIONAL
   
-  [![Website](https://img.shields.io/badge/CHECK_MY_PORTAFOLIO-0078d7?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&height=40)](https://alusoreza.github.io/)
+  [![Website](https://img.shields.io/badge/CHECK_MY_PORTAFOLIO!-0078d7?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&height=40)](https://alusoreza.github.io/)
 
 </div>
 
