@@ -1,5 +1,10 @@
 # Junior Software Developer | Alonso José Suárez Reza 👋
 
+<p align="center">
+  <a href="README.md">🇺🇸 English</a> | 
+  <b>🇪🇸 Español</b>
+</p>
+
 [![Website](https://img.shields.io/badge/Visit-My_Portfolio-0078d7?style=for-the-badge&logo=github&logoColor=white)](https://alusoreza.github.io/)
 
 I am a **Junior Software Developer** currently in a continuous learning process, driven by curiosity and a passion for building functional solutions. I love exploring new technologies and turning ideas into code.
