@@ -27,6 +27,14 @@ Currently, I am expanding my horizons toward new technological fields, integrati
 - 🛠️ **Current Focus:** Deepening my expertise in **Java** and **Python** while exploring the DevOps ecosystem.
 - 🌟 **Goal:** To write clean, efficient code and contribute to projects that make an impact.
 
+### 🚀 My Approach to Artificial Intelligence
+
+Across my repositories, you will see that I leverage the power of AI tools, but always under a strict rule: **I use it as a copilot, not as an autopilot**. 
+
+* **How I use it:** To maximize my productivity, automate repetitive tasks, speed up writing boilerplate code, and constantly learn new technologies.
+* **My commitment:** I don't commit or push anything I don't understand. I actively make an effort to study and comprehend the logic behind every solution, ensuring that the code serves a real, meaningful purpose within the project.
+* AI optimizes my time, but the critical thinking and the actual learning are 100% mine.
+
 ---
 
 ## 🛠️ My Tech Toolbox
