@@ -27,6 +27,14 @@ Actualmente, estoy expandiendo mis horizontes hacia nuevos campos tecnológicos,
 - 🛠️ **Enfoque actual:** Mejorando mi dominio de **Java** y **Python** mientras exploro resto de ecosistemas.
 - 🌟 **Meta:** Escribir código limpio y eficiente para contribuir en proyectos que generen un impacto real.
 
+### 🚀 Mi relación con la Inteligencia Artificial
+
+En mis repositorios verás que aprovecho el potencial de las herramientas de IA, pero siempre bajo una regla estricta: **la uso como copiloto, no como piloto automático**. 
+
+*   **¿Para qué la uso?** Maximizar mi productividad, automatizar tareas repetitivas, acelerar la escritura de código base y para aprender nuevas tecnologías.
+*   **Mi compromiso:** No subo nada que no entienda. Me esfuerzo activamente por estudiar y comprender la lógica detrás de cada solución y asegurar que el código tenga un sentido real dentro del proyecto.
+*   La IA optimiza mi tiempo, pero el criterio y el aprendizaje son 100% míos.
+
 ---
 
 ## 🛠️ Mi set de lenguajes de programación y herramientas tecnológicas
